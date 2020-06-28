@@ -1,0 +1,15 @@
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\bin\Debug\netcoreapp3.1\matchinggame7.exe
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\bin\Debug\netcoreapp3.1\matchinggame7.deps.json
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\bin\Debug\netcoreapp3.1\matchinggame7.runtimeconfig.json
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\bin\Debug\netcoreapp3.1\matchinggame7.runtimeconfig.dev.json
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\bin\Debug\netcoreapp3.1\matchinggame7.dll
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\bin\Debug\netcoreapp3.1\matchinggame7.pdb
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\obj\Debug\netcoreapp3.1\matchinggame7.Form1.resources
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\obj\Debug\netcoreapp3.1\matchinggame7.csproj.GenerateResource.cache
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\obj\Debug\netcoreapp3.1\matchinggame7.AssemblyInfoInputs.cache
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\obj\Debug\netcoreapp3.1\matchinggame7.AssemblyInfo.cs
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\obj\Debug\netcoreapp3.1\matchinggame7.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\obj\Debug\netcoreapp3.1\matchinggame7.dll
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\obj\Debug\netcoreapp3.1\matchinggame7.pdb
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\obj\Debug\netcoreapp3.1\matchinggame7.genruntimeconfig.cache
+C:\Users\DELL PRECISION\source\repos\matchinggame7\matchinggame7\obj\Debug\netcoreapp3.1\matchinggame7.csprojAssemblyReference.cache
